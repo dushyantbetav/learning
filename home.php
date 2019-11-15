@@ -1,1 +1,1 @@
-<?php echo "Welcome to Home"; ?>
+<?php echo "Welcome to Home Again"; ?>
